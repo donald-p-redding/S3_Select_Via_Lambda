@@ -113,7 +113,7 @@ For simplicity we will create a ```Function URL``` to be able to invoke our lamb
 6. Copy the function URL that was generated.
 7. Open Postman or a similar HTTP client and create a new GET request.
 8. Paste the lambda function URL as the request URL
-9. Include a body with the request that conforms to the following structure.
+9. Include a JSON body with the request that conforms to the following structure.
 
 ```json
 {
